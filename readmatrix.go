@@ -1,5 +1,6 @@
 /*
-Package goreadmatrix to read matrix with float64 types from a file or through the terminal.
+Package goreadmatrix to read matrix with float64 types from a file or through
+the terminal.
 */
 package goreadmatrix
 
@@ -13,8 +14,8 @@ import (
 )
 
 /*
-Termread read an matrix through the terminal.
-Where each row read is a row of the matrix with the elements separated by space.
+Termread reads a matrix through the terminal, where each row read is a row of
+the matrix with the elements separated by space.
 
 Example:
 
@@ -52,8 +53,8 @@ func Termread() (int, int, [][]float64) {
 }
 
 /*
-Fileread reads an matrix from a file where each line of the file is a row of the array,
-with the columns separated by space.
+Fileread reads an matrix from a file where each line of the file is a row of
+the array, with the columns separated by space.
 
 File of matrix 3x4 example:
 
