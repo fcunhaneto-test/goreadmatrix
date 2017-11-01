@@ -1,5 +1,5 @@
 /*
-Package goreadmatrix packet to read matrix from a file or through the terminal
+Package goreadmatrix to read matrix with float64 types from a file or through the terminal.
 */
 package goreadmatrix
 
@@ -59,7 +59,7 @@ File of matrix 3x4 example:
 
 2.4 6.8 7.2 1.0
 6.4 5.0 6.3 2.0
-3.0 5.6 4.0 8.7Fileread
+3.0 5.6 4.0 8.7
 
 param:
 fname string: the name of the file that contains the matrix
