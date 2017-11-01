@@ -18,7 +18,7 @@ $ linha 1: 2.4 6.8 7.2 2.5
 $ linha 2: 6.4 5.0 6.3 0
 $ linha 3: 3.8 2.3 2.0 1.6
 
-hr
+_____________________________________________________________________________________________________________________
 Lê uma matriz através do terminal, onde cada linha lida é uma linha da matriz com os elementos separados pelo espaço.
 
 Examplo:
@@ -40,7 +40,7 @@ Example of file with 3x4 matrix:
 6.4 5.0 6.3 2.0
 3.0 5.6 4.0 8.7
 
-hr
+___________________________________________________________________________________________________________________
 Lê uma matriz de um arquivo onde cada linha do arquivo é uma linha da matriz, com as colunas separadas pelo espaço.
 
 Exemplo de uma arquivo com matriz 3x4:
